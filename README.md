@@ -41,16 +41,7 @@ To use the laptop price predictor, follow these steps:
     3. Enter the laptop features for which you want to predict the price.
     4. The system will use the trained model to predict the price and display the result.
 
-## Contributing
-
-We welcome contributions to this project. If you want to contribute, please follow these guidelines:
-
-- Fork the repository.
-- Create a new branch for your changes.
-- Make your changes and commit them with clear commit messages.
-- Push your changes to your forked repository.
-- Create a pull request with a clear description of your changes.
 
 ## Contact
 
-If you have any questions or issues, please contact at rishabhvyas472@gmail.com
+If you have any questions or issues, please contact at abhishekkumar13543@gmail.com
